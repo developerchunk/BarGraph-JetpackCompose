@@ -25,11 +25,11 @@ class MainActivity : ComponentActivity() {
                     Chart(
                         data = mapOf(
 
-                            Pair(0.5f,10),
-                            Pair(0.6f,12),
-                            Pair(0.2f,13),
-                            Pair(0.7f,15),
-                            Pair(0.8f,16),
+                            Pair(0.5f,"A"),
+                            Pair(0.6f,"B"),
+                            Pair(0.2f,"C"),
+                            Pair(0.7f,"D"),
+                            Pair(0.8f,"E"),
 
                         ), max_value = 1000
                     )
