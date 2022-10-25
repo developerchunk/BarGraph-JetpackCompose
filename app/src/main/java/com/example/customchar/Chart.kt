@@ -48,7 +48,6 @@ fun Chart(
             verticalAlignment = Alignment.Bottom,
             horizontalArrangement = Arrangement.Start
         ) {
-
             // scale Y-Axis
             Box(
                 modifier = Modifier
