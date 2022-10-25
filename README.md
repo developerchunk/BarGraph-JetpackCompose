@@ -4,7 +4,7 @@ In this project we are going to create a Bar Graph with Jetpack Compose.
 
 Please check out my youtube channel (Developer Chunk) for more interesting content.
 
-Medium Documentation: https://medium.com/@developerchunk/create-bargraph-in-jetpack-compose-android-studio-kotlin-ec526be25479
+Documentation on Medium: https://medium.com/@developerchunk/create-bargraph-in-jetpack-compose-android-studio-kotlin-ec526be25479
 
 YouTube Video: https://www.youtube.com/watch?v=FhS5096x_oY
 
